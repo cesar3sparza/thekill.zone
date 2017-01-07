@@ -17,6 +17,8 @@ $('.startButton').css({
     marginTop:15
 }); 
 
+//test comment
+
 function startgame(){
     $('#intro').remove();
     $('.explosion').remove();
